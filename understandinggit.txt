@@ -1,0 +1,3 @@
+git --- distrubuted version control system
+       SCM
+	   Truck based development
